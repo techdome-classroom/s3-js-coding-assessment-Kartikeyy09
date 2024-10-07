@@ -26,6 +26,7 @@ var romanToInt = function(s) {
         }
 
         prevValue = currentValue;
+        
     }
 
     return total;
